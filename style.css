@@ -10,7 +10,7 @@ html{
 .container {
   width : 600px;
   height : 450px;
-box-shadow: 2px 3px 7px 0px rgba(0,0,0,0.35); 
+box-shadow: 2px 3px 5px 0px rgba(0,0,0,0.35); 
   border-radius: 5px;
   overflow: hidden;
 }
@@ -43,7 +43,7 @@ footer {
  padding: 25px;
   vertical-align: top;
  background-color: #49bab8;
-  margin-left: -4px;
+ margin-left: -4px;
 }
 
 .top h2 {
